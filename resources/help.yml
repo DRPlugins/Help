@@ -8,21 +8,26 @@ pages: 3
 # - Another help message on page 4
 # - ...
 page.1:
- - §b§lHelpfulCraft §r§eHelp §a(1/3)
- - §d/spawn - §fTeleport to the server's spawn.
- - §d/shop - §fTeleport to the shop.
+ - §4§lDR §r§4>> §e(1/4)
+ - §d/hub - §fTeleport to the server's spawn.
+ - §d/warp shop - §fTeleport to the shop.
  - §d/wild - §fGo to the wilderness.
  - §d/warp - §fList all warps/teleport to a warp.
 page.2:
- - §b§lHelpfulCraft §r§eHelp §a(2/3)
+ - §4§lDR §r§4>> §e(2/4)
  - §d/home - §fTeleport to your home. §d(see /sethome).
- - §d/tell - §fPrivate message a player. §d(/w, /msg).
- - §d/daily - §fGet your daily items.
+ - §d/m - §fPrivate message a player. §d(/w, /msg).
+ - §d/r - §fReply to player messages
  - §d/vote - §fVote for the server to earn amazing items.
 page.3:
- - §b§lHelpfulCraft §r§eHelp §a(3/3)
- - §d/pv - §fAccess private vault.
- - §d/pv 2 - §fMultiple Private Vaults! (/pv 3,4...)
- - §d/mcstats - §fCheck a your own or a player's mmo.
- - §d/mctop - §fCheck who rules the server!
+ - §4§lDR §r§4>> §e(3/4)
+ - §d/echest - §fAccess ender chest.
+ - §d/f 2 - §fFactions command.
+ - §d/xpfix - §fFix item in hand using XP.
+ - §d/emoji - §fUse Emojis in PE!
+page.4:
+ - §4§lDR §r§4>> §e(4/4)
+ - §d/tpa - §fTelaport Request to players.
+ - §d/pos 2 - §fShow your cords in HUD.
+ - §d/buy - §fDonate for ranks and items.
 ...
